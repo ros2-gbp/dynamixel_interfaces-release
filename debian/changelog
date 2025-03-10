@@ -1,0 +1,15 @@
+ros-humble-dynamixel-interfaces (1.0.1-1jammy) jammy; urgency=high
+
+  * Fixed the dependencies setting for the release version
+  * Contributors: Pyo
+
+ -- Pyo <pyo@robotis.com>  Mon, 10 Mar 2025 15:00:00 -0000
+
+ros-humble-dynamixel-interfaces (1.0.0-1jammy) jammy; urgency=high
+
+  * First release of dynamixel_interfaces package
+  * Contributors: Hye-Jong KIM, Sungho Woo
+
+ -- Pyo <pyo@robotis.com>  Tue, 03 Dec 2024 15:00:00 -0000
+
+
